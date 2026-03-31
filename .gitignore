@@ -1,0 +1,34 @@
+# Android GitIgnore padrão e otimizado para o projeto AniMate
+
+# Arquivos gerados pelo Gradle
+.gradle/
+build/
+app/build/
+*/build/
+
+# Configurações locais (caminhos de SDK, chaves, etc.)
+local.properties
+
+# Arquivos específicos do Android Studio (IDE)
+.idea/
+*.iml
+.idea/workspace.xml
+.idea/libraries/
+.idea/caches/
+.idea/modules.xml
+.idea/navEditor.xml
+.idea/assetWizardSettings.xml
+.idea/modules/
+
+# Logs e arquivos temporários do sistema
+captures/
+.externalNativeBuild/
+.cxx/
+.DS_Store
+*.swp
+*~
+Thumbs.db
+
+# Arquivos de teste e lint (opcional, mas recomendado)
+/lint/
+.test-results/
