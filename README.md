@@ -33,8 +33,8 @@
 ---
 ### 👥 Desenvolvedores
 Este projeto foi desenvolvido por:
-- **Leandro Penha de Paula**
-- **Isabela Dantas**
 - **Ana Karoline**
+- **Isabela Dantas**
+- **Leandro Penha de Paula**
 
 🚀
